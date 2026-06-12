@@ -18,9 +18,7 @@ A browser-based IT helpdesk ticketing system built to simulate real-world help d
 
 ## Screenshots
 
-> *(Add screenshots here once deployed — open the app, take a screenshot, save as `screenshot.png` in this folder, then uncomment the line below)*
-
-<!-- ![Dashboard screenshot](screenshot.png) -->
+[Dashboard screenshot](screenshot.png)
 
 ## Tech Stack
 
